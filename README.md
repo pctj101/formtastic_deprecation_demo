@@ -1,5 +1,6 @@
 # README
 
+- https://github.com/formtastic/formtastic/issues/1314
 - chruby 2.7.1
 - mysqldump in ft.sql
 - rails s
