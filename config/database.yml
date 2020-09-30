@@ -1,0 +1,9 @@
+development:
+  adapter: mysql2
+  database: ft
+  username: ft
+  password: ft
+  host: localhost
+  port: 3306
+  pool: 64
+  encoding: utf8mb4
